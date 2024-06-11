@@ -38,7 +38,7 @@ const Banner = () => {
               <img className="w-full rounded-tr-[60px] " src={img3} alt="" />
             </div>
             <div className="w-[212px] h-[212px] rounded-bl-[60px] -mt-4 -mr-4">
-              <img className="w-full rounded-bl-[60px] " src={img5} alt="" />
+              <img className="w-full rounded-bl-[60px] ml-5" src={img5} alt="" />
             </div>
             <div className="w-[232px] h-[232px] rounded-br-[60px]">
               <img className="w-full rounded-br-[60px] " src={img7} alt="" />
