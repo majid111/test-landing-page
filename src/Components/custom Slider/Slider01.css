@@ -1,0 +1,13 @@
+.border2{
+    border: 2px black solid;
+}
+.borderDashed{
+    border: 2px black dashed;
+}
+.bgimg{
+    background-image: url('../../assets/img1.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
